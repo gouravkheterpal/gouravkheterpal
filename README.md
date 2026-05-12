@@ -27,6 +27,4 @@ Java Full Stack Developer focused on:
 Java | Spring Boot | React | PostgreSQL | Redis | Docker | Ollama | OpenAI | MCP
 
 ## Connect
-LinkedIn
-Medium
-Portfolio
+LinkedIn - https://www.linkedin.com/in/gourav-kheterpal-758a65201/
