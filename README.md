@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @gouravkheterpal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Gourav 👋
 
-<!---
-gouravkheterpal/gouravkheterpal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Java Full Stack Developer focused on:
+- Spring Boot
+- Spring AI
+- AI Agents
+- MCP Servers
+- React
+- Redux
+- TypeScript
+- JavaScript
+- Distributed Systems
+
+## Current Focus
+- Open Source contributions in Spring AI ecosystem
+- Building AI agent workflows
+- MCP integrations
+- RAG applications
+
+## Featured Projects
+- AI Resume Reviewer
+- Spring AI RAG Chatbot
+- MCP Server for Salesforce/Copado
+- AI Interview Assistant
+
+## Tech Stack
+Java | Spring Boot | React | PostgreSQL | Redis | Docker | Ollama | OpenAI | MCP
+
+## Connect
+LinkedIn
+Medium
+Portfolio
