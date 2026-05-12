@@ -28,3 +28,6 @@ Java | Spring Boot | React | PostgreSQL | Redis | Docker | Ollama | OpenAI | MCP
 
 ## Connect
 LinkedIn - https://www.linkedin.com/in/gourav-kheterpal-758a65201/
+
+## Open Source Contributions
+- Spring AI — Documentation improvements for console application onboarding
